@@ -1,0 +1,9 @@
+{
+    "wireframe-grid": {
+        "name": "wireframe-grid",
+        "vertexElement": "vertexShaderCode",
+        "fragmentElement": "fragmentShaderCode",
+        "attributes": ["position", "normal", "uv"],
+        "uniforms": ["world", "worldView", "worldViewProjection", "view", "projection"]
+    }
+}
